@@ -35,3 +35,11 @@ https://courses.spatialthoughts.com/gee-advanced.html
 
 ## Creating Publication Quality Charts with GEE (Full Course)
 https://courses.spatialthoughts.com/gee-charts.html
+
+## API
+
+```json
+
+```
+
+
